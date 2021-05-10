@@ -1,0 +1,6 @@
+C:\Users\Mohamed Elazap\source\repos\UninformedSearchStrategies\UninformedSearchStrategies\bin\Debug\UninformedSearchStrategies.exe.config
+C:\Users\Mohamed Elazap\source\repos\UninformedSearchStrategies\UninformedSearchStrategies\bin\Debug\UninformedSearchStrategies.exe
+C:\Users\Mohamed Elazap\source\repos\UninformedSearchStrategies\UninformedSearchStrategies\bin\Debug\UninformedSearchStrategies.pdb
+C:\Users\Mohamed Elazap\source\repos\UninformedSearchStrategies\UninformedSearchStrategies\obj\Debug\UninformedSearchStrategies.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Elazap\source\repos\UninformedSearchStrategies\UninformedSearchStrategies\obj\Debug\UninformedSearchStrategies.exe
+C:\Users\Mohamed Elazap\source\repos\UninformedSearchStrategies\UninformedSearchStrategies\obj\Debug\UninformedSearchStrategies.pdb
